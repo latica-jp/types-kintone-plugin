@@ -1,4 +1,4 @@
-# types-kintone-plugin-lib
+# types-kintone-plugin
 
 - kintone プラグイン開発用の型定義ファイル
 - [@kintone/dts-gen](https://github.com/kintone/dts-gen) から `kintone.d.ts` を修正してコピー
