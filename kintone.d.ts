@@ -1,4 +1,5 @@
 export declare namespace kintone {
+  export const $PLUGIN_ID: string
   export namespace events {
     export function on(event: string | string[], handler: (event: any) => any): void
     export function off(event: string | string[], handler: (event: any) => any): boolean
@@ -110,7 +111,6 @@ export declare namespace kintone {
   }
 
   export namespace plugin {
-    export const $PLUGIN_ID: string
     export namespace app {
       export function getConfig(pluginId: string): any
       export function setConfig(config: any, callback?: () => void): void
