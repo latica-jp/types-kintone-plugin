@@ -1,0 +1,1 @@
+# types-kintone-plugin-lib

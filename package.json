@@ -1,0 +1,8 @@
+{
+  "name": "types-kintone-plugin-lib",
+  "version": "1.0.0",
+  "types": "index.d.ts",
+  "repository": "https://github.com/latica-jp/types-kintone-plugin-lib.git",
+  "author": "Isao Yoshikoshi <latica.jp@gmail.com>",
+  "license": "MIT"
+}
